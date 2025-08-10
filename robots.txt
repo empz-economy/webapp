@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://web.empz.workers.dev/docs/sitemap.xml
+
+# Source code: https://github.com/empz-economy/web
+# We love robots :)
