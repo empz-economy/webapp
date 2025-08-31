@@ -159,7 +159,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Error 404
   if (elements.days && elements.hours && elements.minutes && elements.seconds) {
-    const targetDate = new Date("2027-09-12T00:00:00Z").getTime();
+    const targetDate = new Date("2028-09-12T00:00:00Z").getTime();
     if (isNaN(targetDate)) {
       elements.days.textContent = "ERR";
       elements.hours.textContent = "ERR";

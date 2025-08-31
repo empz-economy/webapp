@@ -177,6 +177,7 @@ h1, h2, h3, h4, h5, h6,
     align-items: center;
     justify-content: center;
     width: 100%;
+    gap: 10px;
 }
 
 .wp-homebtn {
@@ -195,6 +196,8 @@ h1, h2, h3, h4, h5, h6,
     max-width: 150px;
     height: 40px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .wp-homebtn:hover {
